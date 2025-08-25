@@ -1,5 +1,7 @@
 # vocabking
 Vocab King is a sleek, distraction‑free vocabulary manager designed for serious learners. Create and organize decks, add words with meanings and examples, run quick quizzes, and track your mastery — all in one place. With built‑in text‑to‑speech, Excel import, and smart filtering, it makes vocabulary study faster and more intuitive.
+
+
 ![vocabking_Deck Select](https://github.com/user-attachments/assets/eabebb17-920b-48b8-8b5d-16efdca0bfe7)
 ![vocabking_Word List](https://github.com/user-attachments/assets/d86cbaa1-3a3d-4798-9650-2f0952ad5f84)
 ![vocabking_Add Word](https://github.com/user-attachments/assets/17f47134-6a9f-4bed-9e00-0ccc8141fff8)
@@ -16,7 +18,8 @@ Vocab King is a sleek, distraction‑free vocabulary manager designed for seriou
 ## 🚀 Installation
 1. Go to the [Releases](https://github.com/CrispyShin/vocabking/releases/tag/v1.0.0) page
 2. Download the latest `VocabKing.zip`
-3. Double-click to run (Windows 10/11 recommended)
+3. Extract the zip file to your preferred folder
+4. Double-click `VocabKing.exe` inside the extracted folder to run (Windows 10/11 recommended)
 
 ## 📚 How to Use
 1. Add a new deck or import from Excel
